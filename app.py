@@ -1,5 +1,5 @@
 def great(name):
     return f"Hello, {name}!"
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     print(great ("Harsha"))
